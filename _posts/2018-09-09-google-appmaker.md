@@ -1,3 +1,4 @@
+---
 title: Google App Maker
 categories: article
 tags: App Development
@@ -7,21 +8,21 @@ questions:
 - question: "What is the usage of apps?"
   answer:
   - text: "Connect People Together"
-  correct: false
+    correct: false
   - text: "Providing Services"
-  correct: false       
+    correct: false       
   - text: "Improve Daily Life"
-  correct: false
+    correct: false
   - text: "All of the above"
-  correct: true
+    correct: true
 
 - question: "What kind of app would you make that you think may benefit today's society?"
 # open-ended, no answers
+---
 
-    Nowadays, you see apps everywhere you go and frequently have to attend computing lessons on making simple applications. You may be asking yourself, why should I waste time, especially in such a fast-paced society, to mak
-apps when I could be studying or doing something else?  
+Nowadays, you see apps everywhere you go and frequently have to attend computing lessons on making simple applications. You may be asking yourself, why should I waste time, especially in such a fast-paced society, to make apps when I could be studying or doing something else?  
 
-    Applications have various impacts on our lives and it would be a waste to just ignore the existence of apps and avoid learning more about them.
+Applications have various impacts on our lives and it would be a waste to just ignore the existence of apps and avoid learning more about them.
 
 **So What Are the Uses of these Apps?**
 
@@ -39,20 +40,20 @@ apps when I could be studying or doing something else?
 
 ![](image-1)
 
-    The tutorial will teach you how to create a new app as a starter! It will be a list-app! YAY!
+The tutorial will teach you how to create a new app as a starter! It will be a list-app! YAY!
 You can preview your app and know how your app’s interface will be like.
 
 ![](image-2)
 
-    The website also have templates which have template screens and preset buttons to start off your project with some inspiration and ideas!
+The website also have templates which have template screens and preset buttons to start off your project with some inspiration and ideas!
 
 ![](image-3)
 
-    There are many templates for you to choose from depending from what type of app you want to make, which you can use for inspiration as well!
+There are many templates for you to choose from depending from what type of app you want to make, which you can use for inspiration as well!
 
 ![](image-4)  
 
-    This website can help you create an Android app that you can share with your friends. You will be able to download your own app file and use it on your Android phone.
+This website can help you create an Android app that you can share with your friends. You will be able to download your own app file and use it on your Android phone.
 
 **So What Can I Add to the App?**
 
@@ -67,5 +68,5 @@ There is a LOT you can find in this appmaker website. Amazing functions that we 
 [image-1]: {{ "/assets/img/2018-09-09-google-appmaker-1.png" | absolute_url }}
 [image-2]: {{ "/assets/img/2018-09-09-google-appmaker-2.png" | absolute_url }}
 [image-3]: {{ "/assets/img/2018-09-09-google-appmaker-3.png" | absolute_url }}
-[image-4]: {{"/assets/img/2018-09-09-google-appmaker-4.png" | absolute_url}}
+[image-4]: {{ "/assets/img/2018-09-09-google-appmaker-4.png" | absolute_url }}
 

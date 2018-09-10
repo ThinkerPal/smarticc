@@ -1,7 +1,7 @@
 ---
 title: 辅助技术
 categories: article
-tags: tech medical care elderly
+tags: tech medical care elderly chinese
 author: Xu Xicheng, Yu Chenbo
 image: "/assets/img/2018-09-09-assistive-technology-0.png"
 questions:
