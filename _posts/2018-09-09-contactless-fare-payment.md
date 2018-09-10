@@ -1,5 +1,5 @@
 ---
-title: Contactless fare payment? OR Con-Text-Less ~~Fair~~ Payment?
+title: Contactless fare payment? OR Con-Text-Less (Fair) Payment?
 categories: article
 tags: tech transport
 author: Chen Xinyi, Leo Qiyi Joel, Kok Wei En Isaac
